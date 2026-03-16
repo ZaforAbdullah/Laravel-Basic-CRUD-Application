@@ -19,6 +19,3 @@ Following:
 <pre><code>
 	Please seed database before running
 </code></pre>
-
-## Demo Live
-https://crud.zafor.tk/login
